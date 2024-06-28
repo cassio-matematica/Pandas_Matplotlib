@@ -67,5 +67,5 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para m
 Para dúvidas ou sugestões, entre em contato através de:
 
      📧 Email: cassio.matematica@gmail.com
-     [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/c%C3%A1ssio-de-albuquerque-53535313a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/c%C3%A1ssio-de-albuquerque-53535313a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
