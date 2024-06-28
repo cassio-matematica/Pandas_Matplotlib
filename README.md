@@ -29,5 +29,6 @@ Neste repositório, realizamos várias análises e visualizações, incluindo:
 ### 1. Clone o Repositório
 
 ```sh
-git clone https://github.com/seu-usuario/vendas-no-varejo.git
-cd vendas-no-varejo
+git clone https://github.com/cassio-matematica/Pandas_Matplotlib.git
+cd Pandas_Matplotlib
+
