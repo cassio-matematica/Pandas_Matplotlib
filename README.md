@@ -46,24 +46,24 @@ pip install -r requirements.txt
 ```
 python analyze_sales.py
 ```
-#📈 Visualizações
+## 📈 Visualizações
 
 Abaixo estão algumas das visualizações geradas a partir do dataset:
 - Gráfico de Tendências de Vendas:
 - Produtos Mais Vendidos:
 - Receita por Categoria:
 
-#🌟 Contribuição
+## 🌟 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir 
 um issue ou enviar um pull request.
 
-#📄 Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-#📬 Contato
+## 📬 Contato
 
 Para dúvidas ou sugestões, entre em contato através de:
 
-    - 📧 Email: cassio.matematica@gmail.com
+     📧 Email: cassio.matematica@gmail.com
