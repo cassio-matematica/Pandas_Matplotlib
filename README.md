@@ -32,45 +32,38 @@ Neste repositório, realizamos várias análises e visualizações, incluindo:
 git clone https://github.com/cassio-matematica/Pandas_Matplotlib.git
 cd Pandas_Matplotlib
 ```
-### 2. Instale as Dependências e Execute a Análise
-Recomendamos o uso de um ambiente virtual para instalar as dependências:
 
+### 2. Instale as Dependências 
+```
+sh
 python -m venv env
 source env/bin/activate  # Para Linux/MacOS
 env\Scripts\activate  # Para Windows
-
 pip install -r requirements.txt
+```
+### 3. Execute a Análise
 
+```
 python analyze_sales.py
-
-###3. Execute a Análise
-Execute o script principal de análise:
-python analyze_sales.py
-
-
- ###📈 Visualizações
+```
+#📈 Visualizações
 
 Abaixo estão algumas das visualizações geradas a partir do dataset:
+- Gráfico de Tendências de Vendas:
+- Produtos Mais Vendidos:
+- Receita por Categoria:
 
-- **Gráfico de Tendências de Vendas:**
-- **Produtos Mais Vendidos:**
-- **Receita por Categoria:**
- 
-
-
-###🌟 Contribuição
+#🌟 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir 
 um issue ou enviar um pull request.
 
-###📄 Licença
+#📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-📬 Contato
+#📬 Contato
 
 Para dúvidas ou sugestões, entre em contato através de:
 
-    📧 Email: cassio.matematica@gmail.com
-
-
+    - 📧 Email: cassio.matematica@gmail.com
