@@ -45,10 +45,10 @@ python analyze_sales.py
 
 ###3. Execute a Análise
 Execute o script principal de análise:
-```python analyze_sales.py```
+python analyze_sales.py
 
 
- 📈 Visualizações
+ ###📈 Visualizações
 
 Abaixo estão algumas das visualizações geradas a partir do dataset:
 
@@ -58,12 +58,12 @@ Abaixo estão algumas das visualizações geradas a partir do dataset:
  
 
 
-🌟 Contribuição
+###🌟 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir 
 um issue ou enviar um pull request.
 
-📄 Licença
+###📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
