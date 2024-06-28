@@ -26,13 +26,13 @@ Neste repositório, realizamos várias análises e visualizações, incluindo:
 
 ## 🚀 Início Rápido
 
-# 1. Clone o Repositório#
+### 1. Clone o Repositório
 
 ```sh
 git clone https://github.com/cassio-matematica/Pandas_Matplotlib.git
 cd Pandas_Matplotlib
 ```
-## 2. Instale as Dependências e Execute a Análise
+### 2. Instale as Dependências e Execute a Análise
 Recomendamos o uso de um ambiente virtual para instalar as dependências:
 
 python -m venv env
@@ -43,20 +43,24 @@ pip install -r requirements.txt
 
 python analyze_sales.py
 
-##3. Execute a Análise#
+###3. Execute a Análise#
 Execute o script principal de análise:
 python analyze_sales.py
 
 
-📈 ##Visualizações
+## 📈 Visualizações
 
 Abaixo estão algumas das visualizações geradas a partir do dataset:
 
-    Gráfico de Tendências de Vendas:
+- **Gráfico de Tendências de Vendas:**
+  ![Gráfico de Tendências de Vendas](images/sales_trends.png)
 
-    Produtos Mais Vendidos:
+- **Produtos Mais Vendidos:**
+  ![Produtos Mais Vendidos](images/top_products.png)
 
-    Receita por Categoria:
+- **Receita por Categoria:**
+  ![Receita por Categoria](images/revenue_by_category.png)
+
 
 🌟 ##Contribuição
 
