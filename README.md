@@ -43,35 +43,31 @@ pip install -r requirements.txt
 
 python analyze_sales.py
 
-###3. Execute a Análise#
+###3. Execute a Análise
 Execute o script principal de análise:
-python analyze_sales.py
+```python analyze_sales.py```
 
 
-## 📈 Visualizações
+ 📈 Visualizações
 
 Abaixo estão algumas das visualizações geradas a partir do dataset:
 
 - **Gráfico de Tendências de Vendas:**
-  ![Gráfico de Tendências de Vendas](images/sales_trends.png)
-
 - **Produtos Mais Vendidos:**
-  ![Produtos Mais Vendidos](images/top_products.png)
-
 - **Receita por Categoria:**
-  ![Receita por Categoria](images/revenue_by_category.png)
+ 
 
 
-##🌟 Contribuição
+🌟 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir 
 um issue ou enviar um pull request.
 
-##📄 Licença
+📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-##📬 Contato
+📬 Contato
 
 Para dúvidas ou sugestões, entre em contato através de:
 
