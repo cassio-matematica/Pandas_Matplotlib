@@ -28,20 +28,24 @@ Neste repositório, realizamos várias análises e visualizações, incluindo:
 
 ### 1. Clone o Repositório
 
-sh
+```sh
 git clone https://github.com/cassio-matematica/Pandas_Matplotlib.git
-cd Pandas_Matplotlib```
-
+cd Pandas_Matplotlib
+```
 ### 2. Instale as Dependências e Execute a Análise
 Recomendamos o uso de um ambiente virtual para instalar as dependências:
 
-  python -m venv env
-  source env/bin/activate  # Para Linux/MacOS
-  env\Scripts\activate  # Para Windows
+python -m venv env
+source env/bin/activate  # Para Linux/MacOS
+env\Scripts\activate  # Para Windows
 
-  pip install -r requirements.txt
+pip install -r requirements.txt
 
-  python analyze_sales.py
+python analyze_sales.py
+
+####3. Execute a Análise
+Execute o script principal de análise:
+python analyze_sales.py
 
 
 📈 Visualizações
