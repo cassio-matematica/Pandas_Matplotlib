@@ -62,16 +62,16 @@ Abaixo estão algumas das visualizações geradas a partir do dataset:
   ![Receita por Categoria](images/revenue_by_category.png)
 
 
-🌟 ##Contribuição
+##🌟 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir 
 um issue ou enviar um pull request.
 
-📄 ##Licença
+##📄 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-📬 ##Contato
+##📬 Contato
 
 Para dúvidas ou sugestões, entre em contato através de:
 
