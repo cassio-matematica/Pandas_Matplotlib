@@ -29,6 +29,16 @@ Neste repositório, realizamos várias análises e visualizações, incluindo:
 
 ### 1. Clone o Repositório
 
-```sh
+```
+sh
 git clone https://github.com/cassio-matematica/Pandas_Matplotlib.git
 cd Pandas_Matplotlib
+
+```
+## 📞 Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassio-matematica/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassio.matematica@gmail.com)
